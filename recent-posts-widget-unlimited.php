@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Recent Posts Widgt Unlimited
+Plugin Name: Recent Posts Widget Unlimited
 Plugin URI: http://www.geekhelpguide.com/wordpress/bypass-wordpress-recent-posts-widget-15-post-limit/
 Description: A Recent Posts widget that bypasses the 15-post limitation.
 Author: helpgeek
