@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: recent posts, widget
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 A replacement for the WordPress Recent Posts widget that allows an unlimited number of posts to be displayed.
 
@@ -57,10 +57,16 @@ Please visit the plugin site at [Plugin Page](http://www.geekhelpguide.com/wordp
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Fixed spelling error in plugin name.
+
+= 1.0.0 =
 * Initial release.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.1 =
+If you hate spelling errors, you'll want to upgrade!
+
+= 1.0.0 =
 N/A (Initial release).
