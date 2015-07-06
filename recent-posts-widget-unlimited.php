@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: Recent Posts Widget Unlimited
-Plugin URI: http://www.geekhelpguide.com/wordpress/bypass-wordpress-recent-posts-widget-15-post-limit/
+Plugin URI: http://equusassets.com
 Description: A Recent Posts widget that bypasses the 15-post limitation.
 Author: helpgeek
-Author URI: http://www.geekhelpguide.com/
-Version: 1.0
+Author URI: http://equusassets.com/
+Version: 1.1.0
+Text Domain: recent-posts-widget-unlimited
 */
 
 /* ======= Custom Extended Recent Posts Widget ======== */
@@ -20,11 +21,11 @@ class GHGPostWidget extends WP_Widget {
     $defaults = array( 'title' => 'Recent Posts', 'num_posts' => '15');
     $instance = wp_parse_args( (array) $instance, $defaults ); ?>
     <p>
-      <label for="<?php echo $this->get_field_id('title'); ?>"><?php _e('Recent Posts'); ?></label>
+      <label for="<?php echo $this->get_field_id('title'); ?>"><?php _e('Title:', 'recent-posts-widget-unlimited'); ?></label>
       <input id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo $instance['title']; ?>" style="width:100%"/>
     </p>
     <p>
-      <label for="<?php echo $this->get_field_id('num_posts'); ?>">Number of posts to show:</label>
+      <label for="<?php echo $this->get_field_id('num_posts'); ?>"><?php _e('Number of posts to show:', 'recent-posts-widget-unlimited'); ?></label>
       <input id="<?php echo $this->get_field_id('num_posts'); ?>" name="<?php echo $this->get_field_name('num_posts'); ?>" value="<?php echo $instance['num_posts']; ?>" style="width:40px;" />
     </p>
 <?php
