@@ -4,7 +4,7 @@ Donate link: http://equusassets.com/
 Tags: recent posts, widget
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 
 A replacement for the WordPress Recent Posts widget that allows an unlimited number of posts to be displayed.
 
