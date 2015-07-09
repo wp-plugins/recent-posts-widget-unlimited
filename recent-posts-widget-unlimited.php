@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Recent Posts Widget Unlimited
-Plugin URI: http://equusassets.com
-Description: A Recent Posts widget that bypasses the 15-post limitation.
-Author: helpgeek
-Author URI: http://equusassets.com/
-Version: 1.1.0
-Text Domain: recent-posts-widget-unlimited
+ * Plugin Name: Recent Posts Widget Unlimited
+ * Plugin URI: http://equusassets.com
+ * Description: A Recent Posts widget that bypasses the 15-post limitation.
+ * Author: helpgeek
+ * Author URI: http://equusassets.com/
+ * Version: 1.1.0
+ * Text Domain: recent-posts-widget-unlimited
 */
 
 /* ======= Custom Extended Recent Posts Widget ======== */

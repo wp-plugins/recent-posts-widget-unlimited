@@ -57,6 +57,9 @@ Please visit the plugin site at [Plugin Page](http://www.geekhelpguide.com/wordp
 
 == Changelog ==
 
+= 1.1.0 =
+* Clarified widget title and updated compatibility to 4.2.2.
+
 = 1.0.1 =
 * Fixed spelling error in plugin name.
 
@@ -64,6 +67,9 @@ Please visit the plugin site at [Plugin Page](http://www.geekhelpguide.com/wordp
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.1.0 =
+* Updated compatibility to 4.2.2.
 
 = 1.0.1 =
 If you hate spelling errors, you'll want to upgrade!
